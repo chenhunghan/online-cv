@@ -106,26 +106,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: JavaScript / ECMAScript 6 (ES2015, E2017, ES2019...)
+      - name: JavaScript / ECMAScript 6
         level: 99%
 
-      - name: Unit testing / Integrity testing with Jest/Mocha
+      - name: Unit testing with Jest/Mocha
         level: 98%
 
-      - name: (4+ years) React, and React's ecosystem including Redux, Redux-Sagas, ImmutableJS, and Styled-Component;
+      - name: React, and React's ecosystem
         level: 98%
 
-      - name: Progressive Web App (PWA) / Single Page Applications (SPA)
+      - name: Progressive Web App (PWA)
         level: 98%
 
       - name: HTML5 / CSS3 / SVG 
         level: 98%
         
-      - name: (6+ years) D3.js, highly up-voted Stackoverflow answer https://stackoverflow.com/questions/13463053/calm-down-initial-tick-of-a-force-layout/19176409#19176409
+      - name: D3.js
         level: 70%
         
-      - name: (5+ years) Angular
-        level: 60%
+      - name: Angular
+        level: 40%
         
       - name: Sketch
         level: 60%
