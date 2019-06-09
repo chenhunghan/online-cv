@@ -7,57 +7,32 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Hung-Han Chen
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: chenhungh@gmail.com
+    linkedin: chenhunghan
+    github: chenhunghan
+    stack-overflow: 2845654/chh # Number/Username, e.g. 123456/alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Taiwanese Mandarin Chinese
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      A developer focusing on Cloud Computing and Full-Stack JavaScript. Help companies move to cloud native architecture to continuously deliver new features and intuitive digital experience to customers.
 
-      Second paragraph if required.
+      Years of experience writing vanilla JavaScript from the stone age of IE6 to ECMAScript 6/2019. What makes me stand out as a developer? In addition to programming experience, I have a Design background (granted an MA in Design and a doctoral candidate in New Media), therefore, I have passion to deliver user-centric digital services.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: Doctoral Candidate in New Media
+      university: Aalto University
       time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -72,59 +47,29 @@ education:
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Full Stack Developer
+      time: 2.2019 - Present
+      company: Spectral Engines Oy
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
+        80% backend 20% front-end. Work on microservice clusters, cloud resource endpoints and develop 2 Progressive Native Web Apps.
+        
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Front End Developer
+      time: 1.2018 - 2.2019
+      company: Spectral Engines Oy
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Developing a React-based Progressive App plus a cross platform (Android + iOS) mobile app. Tech stacks for front-end: React, Redux, Redux-Sagas, ImmutableJS, styles-component, jest, enzyme, Back-End: Express, Postgresql, Knex, Docker, Ansible, RabbitMQ.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
+    - role: Front End Developer
+      time: 6.2015 - 12.2016
       company: Amazon, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Bullet point* Design and implement an Open-source, React-based User Interface for DiMe, a Personal Information Management solution. Github link: https://github.com/HIIT/dime-ui
+          - Implement a Chrome extension for logging web activities in DiMe. Github link: https://github.com/HIIT/dime-webextension
 
 projects:
     title: Projects
@@ -154,26 +99,6 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
@@ -195,6 +120,3 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
