@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -25,7 +25,7 @@ sidebar:
         level: Native
 
 career-profile:
-    title: Career Profile
+    title: 
     summary: |
       I am a developer focusing on Cloud Computing and Full-Stack JavaScript. Help companies move to cloud native architecture to continuously deliver new features and intuitive digital experience to customers.
 
@@ -51,7 +51,11 @@ experiences:
       time: 2.2019 - Present
       company: Spectral Engines Oy
       details: |
-        80% backend 20% front-end. Work on microservice clusters, cloud resource endpoints and develop 2 Progressive Native Web Apps.
+        80% backend 20% front-end.
+        
+          - Frontend tasks develop 2 Progressive Native Web Apps.
+            - The NIRONE Scanner (https://play.google.com/store/apps/details?id=com.nironescanner.app) and PurplPRO (https://itunes.apple.com/us/app/purpl-pro/id1343766020).
+          - Backend task on microservice clusters, cloud resource endpoints.
 
     - role: Front End Developer
       time: 1.2018 - 2.2019
