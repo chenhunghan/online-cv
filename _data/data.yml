@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Hung-Han Chen
+    name: Hung-Han (Henry) Chen
     tagline: Full Stack Developer
 
     # Sidebar links
@@ -26,27 +26,24 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A developer focusing on Cloud Computing and Full-Stack JavaScript. Help companies move to cloud native architecture to continuously deliver new features and intuitive digital experience to customers.
+      I am a developer focusing on Cloud Computing and Full-Stack JavaScript. Help companies move to cloud native architecture to continuously deliver new features and intuitive digital experience to customers.
 
-      Years of experience writing vanilla JavaScript from the stone age of IE6 to ECMAScript 6/2019. What makes me stand out as a developer? In addition to programming experience, I have a Design background (granted an MA in Design and a doctoral candidate in New Media), therefore, I have passion to deliver user-centric digital services.
+      I have years of experience writing vanilla JavaScript from the stone age of IE6 to ECMAScript 6/2019.
+      
+      What makes me stand out as a developer? In addition to programming experience, I have a Design background (granted an MA in Design and a Doctoral Candidate in New Media), therefore, I have passion to deliver user-centric digital services.
 
 education:
-    - degree: Doctoral Candidate in New Media
-      university: Aalto University
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: Doctoral Candidate, New Media
+      university: Aalto University, Finland
+      time: 2014 - 2018
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Master of Arts (MA), Design
+      university: National Chiao Tung University, Taiwan
+      time: 2010 - 2013
+    
+    - degree: Bachelor of Science (B.Sc.), Life Science
+      university: National Tsing Hua University, Taiwan
+      time: 2005 - 2009
 
 experiences:
     - role: Full Stack Developer
@@ -54,9 +51,6 @@ experiences:
       company: Spectral Engines Oy
       details: |
         80% backend 20% front-end. Work on microservice clusters, cloud resource endpoints and develop 2 Progressive Native Web Apps.
-        
-          - Bullet point
-          - Bullet point
 
     - role: Front End Developer
       time: 1.2018 - 2.2019
@@ -66,10 +60,18 @@ experiences:
 
     - role: Front End Developer
       time: 6.2015 - 12.2016
-      company: Amazon, London
+      company: Helsinki Institute for Information Technology
       details: |
-          - Bullet point* Design and implement an Open-source, React-based User Interface for DiMe, a Personal Information Management solution. Github link: https://github.com/HIIT/dime-ui
+          - Design and implement an Open-source, React-based User Interface for DiMe, a Personal Information Management solution. Github link: https://github.com/HIIT/dime-ui
           - Implement a Chrome extension for logging web activities in DiMe. Github link: https://github.com/HIIT/dime-webextension
+          
+    - role: Front End Developer
+      time: 9.2013 - 8.2014
+      details: |
+        Design UI for the hardware made by a Taiwanese network company, Intrising (http://www.intrising.com.tw/). My responsibilities are: 
+          
+          - Designing two applications, IntraView and IntraConfig, from prototypes to final products. see live-demo: https://chenhunghan.github.io/iv/
+          - I establish systems structures (Nodewebkit/NW.js_+ AngularJS + D3.js) and defining the essential core design features (UI+UX).
 
 projects:
     title: Projects
@@ -103,20 +105,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: JavaScript / ECMAScript 6 (ES2015, E2017, ES2019...)
+        level: 99%
+
+      - name: Unit testing / Integrity testing with Jest/Mocha
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: (4+ years) React, and React's ecosystem including Redux, Redux-Sagas, ImmutableJS, and Styled-Component;
         level: 98%
 
-      - name: Angular
+      - name: Progressive Web App (PWA) / Single Page Applications (SPA)
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: HTML5 / CSS3 / SVG 
+        level: 98%
+        
+      - name: (6+ years) D3.js, highly up-voted Stackoverflow answer https://stackoverflow.com/questions/13463053/calm-down-initial-tick-of-a-force-layout/19176409#19176409
+        level: 70%
+        
+      - name: (5+ years) Angular
+        level: 60%
+        
+      - name: Sketch
         level: 60%
