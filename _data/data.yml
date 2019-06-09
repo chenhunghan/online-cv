@@ -58,36 +58,43 @@ experiences:
       time: 2.2019 - Present
       company: Spectral Engines Oy
       details: |
-        80% backend 20% front-end.
+        Cloud computing and full-stack JavaScript cloud native services
         
-          - Developing 2 React-based, cross platform (Android + iOS) Progressive Native Web apps.
+          - Delivered performance-driven and user-centric cloud services that met all business requirements.
+          - 80% backend 20% front-end. Worked on micro service clusters, cloud resource endpoints and developed 2 React-based, cross platform (Android + iOS) Progressive Native Web apps.
             - The NIRONE Scanner <https://play.google.com/store/apps/details?id=com.nironescanner.app>
             - PurplPRO <https://itunes.apple.com/us/app/purpl-pro/id1343766020>
-          - Backend task on microservice clusters, cloud resource endpoints.
+          - Boosted network, system and data availability and integrity through preventative maintenance and upgrades.
+          - Reviewed code (pull reuqests), debugged problems and corrected issues.
 
     - role: Front End Developer
       time: 1.2018 - 2.2019
       company: Spectral Engines Oy
       details: |
-      
-        - Developing 2 React-based, cross platform (Android + iOS) Progressive Native Web apps.
-            - The NIRONE Scanner <https://play.google.com/store/apps/details?id=com.nironescanner.app>
-            - PurplPRO <https://itunes.apple.com/us/app/purpl-pro/id1343766020>
+        Desgined and developed web dashboard, a React-based, cross platform (Android + iOS) Progressive Native Web apps from prototype to product.
+        
+            - Took concepts and produced design mockups and prototypes <https://sketch.cloud/s/YZz8v/a/z8y5Dy/play>
+            - Designed and updated web apps to meet usability and performance requirements (Lighthouse scores 100/100).
+            - Designed and executed security measures such as CSP policy and XSS prevention.
+            - The links to the product
+                - The PurplPRO WebPortal <https://webportal.purplscientific.com>
+                - The link to the mobile app PurplPRO <https://itunes.apple.com/us/app/purpl-pro/id1343766020>
 
     - role: Front End Developer
       time: 6.2015 - 12.2016
       company: Helsinki Institute for Information Technology
       details: |
-          - Design and implement an Open-source, React-based User Interface for DiMe, a Personal Information Management solution. Github link: https://github.com/HIIT/dime-ui
-          - Implement a Chrome extension for logging web activities in DiMe. Github link: https://github.com/HIIT/dime-webextension
+          - Designed and implemented an open-source, React-based User Interface for DiMe, a Personal Information Management solution. Github link: https://github.com/HIIT/dime-ui
+          - Implemented an open-source Chrome extension for logging web activities in DiMe. Github link: https://github.com/HIIT/dime-webextension
           
     - role: Front End Developer
       time: 9.2013 - 8.2014
+      company: Intrising Inc
       details: |
-        Design UI for the hardware made by a Taiwanese network company, Intrising (http://www.intrising.com.tw/). My responsibilities are: 
+        Design UI for the hardware made by a Taiwanese network company, [Intrising Inc.]http://www.intrising.com.tw/). My responsibilities are: 
           
-          - Designing two applications, IntraView and IntraConfig, from prototypes to final products. see live-demo: https://chenhunghan.github.io/iv/
-          - I establish systems structures (Nodewebkit/NW.js_+ AngularJS + D3.js) and defining the essential core design features (UI+UX).
+          - Designed two applications, IntraView and IntraConfig, from prototypes to final products. see live-demo: https://chenhunghan.github.io/iv/
+          - Established systems structures (Nodewebkit/NW.js_+ AngularJS + D3.js) and defining the essential core design features (UI+UX).
 
 projects:
     title: Projects
@@ -116,31 +123,3 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: JavaScript / ECMAScript 6
-        level: 99%
-
-      - name: Unit testing with Jest/Mocha
-        level: 98%
-
-      - name: React, and React's ecosystem
-        level: 98%
-
-      - name: Progressive Web App (PWA)
-        level: 98%
-
-      - name: HTML5 / CSS3 / SVG 
-        level: 98%
-        
-      - name: D3.js
-        level: 70%
-        
-      - name: Angular
-        level: 40%
-        
-      - name: Sketch
-        level: 60%
