@@ -25,18 +25,22 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      I am a developer focusing on Cloud Computing and Full-Stack JavaScript. Help companies move to cloud-native architecture to continuously deliver new features and intuitive digital experience to customers.
+      A developer focusing on Cloud Computing and Full-Stack JavaScript. I help companies move to cloud-native architecture and deliver intuitive UX experience to customers.
 
       I have years of experience writing vanilla JavaScript from the stone age of IE6 to ECMAScript 6/2019.
       
-      What makes me stand out as a developer? In addition to programming experience, I have a Design background (granted an MA in Design and a Doctoral Candidate in New Media), therefore, I have passion to deliver user-centric digital services.
+      What makes me stand out as a developer? In addition to programming experience, I have a Design background (granted an MA in Design and a Doctoral Candidate in New Media), therefore, I have passion to deliver user-centric digital products.
       
       Skills
       
-        - JavaScript / ECMAScript 6 (ES2015, E2017, ES2019...); Unit testing and Integrity testing with Jest/Mocha.
+        - JavaScript/ECMAScript 6 (ES2015...ES2019)
+        - Unit testing and integrity testing with Jest/Mocha.
         - Microservice architecture planning, container serving and microservice eventing with Docker, Kubernetes, and Knative.
-        - Express.js / PostgreSQL; 4+ years on React, and React's ecosystem including Redux, Redux-Sagas, ImmutableJS, and Styled-Component. 5+ year on Angular, 6+ years on D3.js.
-        - Progressive Web App (PWA) and Single Page Applications (SPA); HTML5 / CSS3 / SVG
+        - 4+ years on React, and React's ecosystem including Redux, Redux-Sagas, ImmutableJS, and Styled-Component.
+        - 6+ years on D3.js (see this highly rated [StackOverflow answer](https://stackoverflow.com/questions/13463053/calm-down-initial-tick-of-a-force-layout/19176409#19176409)) and 5+ year on Angular 1.x.
+        - Progressive Web App (PWA) and Single Page Applications (SPA)
+        - HTML5/CSS3/SVG
+        - Express.js/PostgreSQL
 
 education:
     - degree: Doctoral Candidate, New Media
@@ -54,12 +58,13 @@ education:
 experiences:
     - role: Full Stack Developer
       time: 2.2019 - Present
-      company: Spectral Engines Oy
+      company: Spectral Engines Oy, Finland
       details: |
         Cloud computing and full-stack JavaScript cloud-native services
         
           - Delivered performance-driven and user-centric cloud services that met all business requirements.
-          - 80% backend 20% front-end. Worked on micro service clusters, cloud resource endpoints and developed 2 React-based, cross-platform (Android + iOS) Progressive Native Web apps.
+          - 80% backend 20% front-end. Worked on micro service clusters, cloud resource endpoints
+          - Developed React-based, cross-platform (Android + iOS) Progressive Native Web apps.
             - [NIRONE Scanner](https://play.google.com/store/apps/details?id=com.nironescanner.app)
             - [NIRONE Webportal](https://webui.spectralengines.com)
             - [NIRONE Cloud API](http://api-doc.spectralengines.com)
@@ -69,7 +74,7 @@ experiences:
 
     - role: Front End Developer
       time: 1.2018 - 2.2019
-      company: Spectral Engines Oy
+      company: Spectral Engines Oy, Finland
       details: |
         Designed and developed web dashboard, a React-based, cross-platform (Android + iOS) Progressive Native Web apps from prototype to product.
           - Took concepts and produced design [mockups and prototypes](https://sketch.cloud/s/YZz8v/a/z8y5Dy/play).
@@ -81,16 +86,16 @@ experiences:
 
     - role: Front End Developer
       time: 6.2015 - 12.2016
-      company: Helsinki Institute for Information Technology
+      company: Helsinki Institute for Information Technology, Finland
       details: |
           - Designed and implemented an [open-source, React-based User Interface for DiMe](https://github.com/HIIT/dime-ui), a Personal Information Management solution.
           - Implemented an [open-source Chrome extension](https://github.com/HIIT/dime-webextension) for logging web activities in DiMe.
           
     - role: Front End Developer
       time: 9.2013 - 8.2014
-      company: Intrising Inc
+      company: [Intrising Inc.](http://www.intrising.com.tw/), Taiwan
       details: |
-        Design UI for the hardware made by a Taiwanese network company, [Intrising Inc.](http://www.intrising.com.tw/). My responsibilities are: 
+        Design UI for the hardware. My responsibilities are: 
           
           - Designed two applications, IntraView and IntraConfig, from prototypes to final products. see [live-demo](https://chenhunghan.github.io/iv/).
           - Established systems structures (Nodewebkit/NW.js_+ AngularJS + D3.js) and defining the essential core design features (UI+UX).
