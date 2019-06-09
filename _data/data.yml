@@ -62,8 +62,8 @@ experiences:
         
           - Delivered performance-driven and user-centric cloud services that met all business requirements.
           - 80% backend 20% front-end. Worked on micro service clusters, cloud resource endpoints and developed 2 React-based, cross platform (Android + iOS) Progressive Native Web apps.
-            - The NIRONE Scanner <https://play.google.com/store/apps/details?id=com.nironescanner.app>
-            - PurplPRO <https://itunes.apple.com/us/app/purpl-pro/id1343766020>
+            - [The NIRONE Scanner](https://play.google.com/store/apps/details?id=com.nironescanner.app)
+            - [PurplPRO](https://itunes.apple.com/us/app/purpl-pro/id1343766020)
           - Boosted network, system and data availability and integrity through preventative maintenance and upgrades.
           - Reviewed code (pull reuqests), debugged problems and corrected issues.
 
@@ -72,13 +72,12 @@ experiences:
       company: Spectral Engines Oy
       details: |
         Desgined and developed web dashboard, a React-based, cross platform (Android + iOS) Progressive Native Web apps from prototype to product.
-        
-            - Took concepts and produced design mockups and prototypes <https://sketch.cloud/s/YZz8v/a/z8y5Dy/play>
-            - Designed and updated web apps to meet usability and performance requirements (Lighthouse scores 100/100).
-            - Designed and executed security measures such as CSP policy and XSS prevention.
-            - The links to the product
-                - The PurplPRO WebPortal <https://webportal.purplscientific.com>
-                - The link to the mobile app PurplPRO <https://itunes.apple.com/us/app/purpl-pro/id1343766020>
+          - Took concepts and produced design mockups and prototypes <https://sketch.cloud/s/YZz8v/a/z8y5Dy/play>
+          - Designed and updated web apps to meet usability and performance requirements (Lighthouse scores 100/100).
+          - Designed and executed security measures such as CSP policy and XSS prevention.
+          - The links to the product
+            - The [PurplPRO WebPortal](https://webportal.purplscientific.com)
+            - The link to the mobile app [PurplPRO](https://itunes.apple.com/us/app/purpl-pro/id1343766020)
 
     - role: Front End Developer
       time: 6.2015 - 12.2016
@@ -91,35 +90,7 @@ experiences:
       time: 9.2013 - 8.2014
       company: Intrising Inc
       details: |
-        Design UI for the hardware made by a Taiwanese network company, [Intrising Inc.]http://www.intrising.com.tw/). My responsibilities are: 
+        Design UI for the hardware made by a Taiwanese network company, [Intrising Inc.](http://www.intrising.com.tw/). My responsibilities are: 
           
           - Designed two applications, IntraView and IntraConfig, from prototypes to final products. see live-demo: https://chenhunghan.github.io/iv/
           - Established systems structures (Nodewebkit/NW.js_+ AngularJS + D3.js) and defining the essential core design features (UI+UX).
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
