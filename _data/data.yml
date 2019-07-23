@@ -25,17 +25,17 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      A developer focusing on Cloud Computing and Full-Stack JavaScript. I help companies move to cloud-native architecture and deliver intuitive UX experience to customers.
+      An experienced developer with an eye for design, mostly do Cloud Computing and Full-Stack JavaScript. Proven experience helping companies move to cloud-native solutions with intuitive user experience.
 
       I have years of experience writing vanilla JavaScript from the stone age of IE6 to ECMAScript 6/2019.
       
-      What makes me stand out as a developer? In addition to programming experience, I have a Design background (granted an MA in Design and a Doctoral Candidate in New Media), therefore, I have passion to deliver user-centric digital products.
+      I found "devsigner", a developer with an eye for design, is the best way to describe how I contribute the team/business. I have years of programming experience, and I was granted an MA in Design and a doctoral candidate in New Media), for these reasons, I have passion to deliver user-centric digital experience.
       
       Skills
       
-        - JavaScript/ECMAScript 6 (ES2015...ES2019)
+        - JavaScript / ECMAScript 6 (ES2015, E2017, ES2019...).
         - Unit testing and integrity testing with Jest/Mocha.
-        - Microservice architecture planning, container serving and microservice eventing with Docker, Kubernetes, and Knative.
+        - Microservice architecture planning, container serving and microservice eventing with Docker, Kubernetes.
         - 4+ years on React, and React's ecosystem including Redux, Redux-Sagas, ImmutableJS, and Styled-Component.
         - 6+ years on D3.js (see this highly rated [StackOverflow answer](https://stackoverflow.com/questions/13463053/calm-down-initial-tick-of-a-force-layout/19176409#19176409)) and 5+ year on Angular 1.x.
         - Progressive Web App (PWA) and Single Page Applications (SPA)
@@ -96,6 +96,5 @@ experiences:
       company: [Intrising Inc.](http://www.intrising.com.tw/), Taiwan
       details: |
         Design UI for the hardware. My responsibilities are: 
-          
           - Designed two applications, IntraView and IntraConfig, from prototypes to final products. see [live-demo](https://chenhunghan.github.io/iv/).
           - Established systems structures (Nodewebkit/NW.js_+ AngularJS + D3.js) and defining the essential core design features (UI+UX).
