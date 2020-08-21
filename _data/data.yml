@@ -40,7 +40,7 @@ career-profile:
       
       - JavaScript (ES2020+); BDD with Mocha/Jest.
       - Kubernetes/Cloud-Native stacks including Kops, Istio, Knative, Prometheus, Loki, Grafana.
-      - AWS Infrastructure provisioning and administration, EC2, LB, VPC, S3, CloudFront, Lambda, SQS.
+      - Amazon Web Service (AWS) infrastructure provisioning and administration.
       - DevOps mindset and skills; No-Ops, shell (bash) scripting, Github Actions CI/CD.
       - Node.js, Koa, Express, MongoDB, PostgreSQL, RabbitMQ.
       - React, Redux, Redux-Sagas, and Styled-Components.
