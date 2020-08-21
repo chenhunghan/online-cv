@@ -25,19 +25,23 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      JavaScript Developer, Certified Kubernetes Administer (CKA cred-id: LF-jx84hyi50v).
+      
+      I am an experienced software developer, with a passion for crafting digital services.
+      
+      I enjoyed working on public clouds, mostly on Amazon Web Service with Kubernetes gears (I am a certified Kubernetes administer [Linux Foundation CKA cred-id: LF-jx84hyi50v]).)
 
-      Drop-out PhD Candidate, Top-tier Design MA with honors, Top-tier Bio BSc.
-
-      What I do everyday:
+      I have extensive experience in software engineering. JavaScript is my mother tongue, React and Node.js are old friends. Currently, I used JavaScript for BDD-driven RESTful API services.
+      
+      Besides programming, I am a creative person with deep knowledge in UI/UX. I have designed apps and websites, from wireframes to public releases on App Store. If you are into Digital Arts, [I used to be an artist](http://chenhunghan.github.io/#tab_0_intro). 
+      
+      I like to share knowledge, have been a lecturer loved by students. I am ok-to-good at mentoring junior devs (according to the recommendations on my [LinkedIn](https://www.linkedin.com/in/chenhunghan)), and I love teamwork.
+      
+      Skills:
       
       - JavaScript (ES2020+); BDD with Mocha/Jest.
       - Kubernetes/Cloud-Native stacks including Kops, Istio, Knative, Prometheus, Loki, Grafana.
-      - DevOps mindset and skills; No-Ops, shell (bash) scripting, Github Actions CI/CD.
       - AWS Infrastructure provisioning and administration, EC2, LB, VPC, S3, CloudFront, Lambda, SQS.
-
-      Additional Keywords:
-
+      - DevOps mindset and skills; No-Ops, shell (bash) scripting, Github Actions CI/CD.
       - Node.js, Koa, Express, MongoDB, PostgreSQL, RabbitMQ.
       - React, Redux, Redux-Sagas, and Styled-Component.
       - Progressive Web App (PWA), D3, Web Extension, HTML5/CSS3/SVG. 
