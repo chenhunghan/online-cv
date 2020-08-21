@@ -43,8 +43,8 @@ career-profile:
       - AWS Infrastructure provisioning and administration, EC2, LB, VPC, S3, CloudFront, Lambda, SQS.
       - DevOps mindset and skills; No-Ops, shell (bash) scripting, Github Actions CI/CD.
       - Node.js, Koa, Express, MongoDB, PostgreSQL, RabbitMQ.
-      - React, Redux, Redux-Sagas, and Styled-Component.
-      - Progressive Web App (PWA), D3, Web Extension, HTML5/CSS3/SVG. 
+      - React, Redux, Redux-Sagas, and Styled-Components.
+      - Progressive Web App (PWA), D3.js, Browser Extensions, HTML5/CSS3/SVG. 
 
 education:
     - degree: (Drop-out in 2018) Doctoral Candidate, New Media
@@ -71,8 +71,7 @@ experiences:
            - Node.js RESTful API implementation.
            - Kubernetes clusters administration
            - AWS infra provisioning
-           - End-to-end CI/CD automation with GIthub Actions
-           - Shell scripting
+           - End-to-end CI/CD automation with GIthub Actions + Shell scripting
           
     - role: Full Stack Developer
       time: 2.2019 - 10.2019
@@ -80,16 +79,10 @@ experiences:
       details: |
         Spectral Engines is a subsidiary of the Nynomic group. SE's main prodect is NIR spectroscopy and its applications.   
         
-        My tasks as a full stack developer is to develope full-stack JavaScript cloud-native services, including apps, web-based dashboard, and the backend.
+        My tasks as a full stack developer is to develope full-stack JavaScript cloud services, including apps, web-based dashboards, and the backend.
         
-          - Delivered performance-driven and user-centric cloud services that met all business requirements.
           - 80% backend 20% front-end. Worked on micro service clusters, cloud resource endpoints
           - Developed React-based, cross-platform (Android + iOS) Progressive Native Web apps.
-            - [NIRONE Scanner](https://play.google.com/store/apps/details?id=com.nironescanner.app)
-            - [NIRONE Webportal](https://webui.spectralengines.com)
-            - [NIRONE Cloud API](http://api-doc.spectralengines.com)
-            - [PurplPRO](https://itunes.apple.com/us/app/purpl-pro/id1343766020)
-          - Boosted network, system and data availability and integrity through preventative maintenance and upgrades.
           - Reviewed pull reuqests, debugged problems and corrected issues.
 
     - role: Front End Developer
@@ -97,25 +90,23 @@ experiences:
       company: Spectral Engines Oy, Finland
       details: |
       
-        Designed and developed web dashboard, a React-based, cross-platform (Android + iOS) Progressive Native Web apps from prototype to product.
+        Designed and developed web dashboard, a React-based, cross-platform (Android + iOS) Progressive Native Web app.
           - Took concepts and produced design [mockups and prototypes](https://sketch.cloud/s/YZz8v/a/z8y5Dy/play).
           - Designed and updated web apps to meet usability and performance requirements (Chrome Lighthouse scores 100/100).
           - Designed and executed security measures such as CSP policy and XSS prevention.
-          - The links to the product
-            - [PurplPRO WebPortal](https://webportal.purplscientific.com)
-            - [PurplPRO](https://itunes.apple.com/us/app/purpl-pro/id1343766020)
 
     - role: Front End Developer
       time: 6.2015 - 12.2016
       company: Helsinki Institute for Information Technology, Finland
       details: |
+      
           - Designed and implemented an [open-source, React-based User Interface for DiMe](https://github.com/HIIT/dime-ui), a Personal Information Management solution.
-          - Implemented an [open-source Chrome extension](https://github.com/HIIT/dime-webextension) for logging web activities in DiMe.
+          - Implemented an [open-source Chrome browser extension](https://github.com/HIIT/dime-webextension) for logging web activities.
           
     - role: Front End Developer
       time: 9.2013 - 8.2014
       company: Intrising Inc., Taiwan
       details: |
-        Design UI for the hardware. My responsibilities are: 
-          - Designed two applications, IntraView and IntraConfig, from prototypes to final products. see [live-demo](https://chenhunghan.github.io/iv/).
+        Design UI for the router.
+          - Designed web-based apps: "IntraView" and "IntraConfig", from prototypes to final products. see [live-demo](https://chenhunghan.github.io/iv/).
           - Established systems structures (Nodewebkit/NW.js_+ AngularJS + D3.js) and defining the essential core design features (UI+UX).
