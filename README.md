@@ -1,4 +1,4 @@
-# Hung-Han'Chen CV
+# Hung-Han (Henry) Chen CV
 
 <https://chenhunghan.github.io/online-cv/>
 
