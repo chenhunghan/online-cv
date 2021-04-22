@@ -26,23 +26,21 @@ career-profile:
     title: Summary
     summary: |
       
-      I am an experienced software developer, with a passion for crafting digital services.
+      I am an experienced full-stack developer, native speaker of JavaScript, years of experience on React and Node.js.
       
-      I have extensive experience in software engineering. JavaScript is my mother tongue, React and Node.js are old friends. Currently, I used JavaScript for BDD-driven RESTful API services.
+      Currently, I'm one of the maintainers of opensource project project Lens - Kubernetes IDE.
       
-      I enjoyed working on public clouds, mostly on Amazon Web Service with Kubernetes gears (I am a Linux Foundation Certified Kubernetes Administer id: LF-jx84hyi50v).
+      I enjoyed working on public clouds, mostly on Amazon Web Service with Kubernetes (I am a Linux Foundation Certified Kubernetes Administer id: LF-jx84hyi50v).
 
-      Besides programming, I am a creative person with deep knowledge of UI/UX. I have designed apps and websites, from wireframes to public releases on App Store.
-      
-      I like to share knowledge, was a University lecturer loved by students. I am ok-to-good at mentoring junior devs (according to the recommendations on my LinkedIn), and I love teamwork.
+      I love teamwork, team's PRs have the highest priority on my to-do list. 
       
       I understand digital services and cloud computing at a high level, these are tags of my knowledge:
       
       - JavaScript (ES2020+); BDD with Mocha/Jest.
-      - Kubernetes/Cloud-Native stacks including Kops, Istio, Knative, Prometheus, Loki, Grafana.
+      - Kubernetes/Cloud-Native stacks including EKS, Kops, Istio, Knative, Prometheus, Loki, Grafana.
       - Amazon Web Service (AWS) infrastructure provisioning and administration.
-      - DevOps mindset and skills; No-Ops, shell (bash) scripting, Github Actions CI/CD.
-      - Node.js, Koa, Express, MongoDB, PostgreSQL, RabbitMQ.
+      - DevOps mindset and skills; Jenkins, Github Actions CI/CD.
+      - Node.js, Nest, TypeORM, Koa, Express, MongoDB, PostgreSQL, RabbitMQ.
       - React, Redux, Redux-Sagas, and Styled-Components.
       - Progressive Web App (PWA), D3.js, Browser Extensions, HTML5/CSS3/SVG. 
 
@@ -60,11 +58,22 @@ education:
       time: 2005 - 2009
 
 experiences:
+    - role: Senior Software Developer
+      time: 10.2020 - present
+      company: Mirantis
+      details: |
+        One of the maintainers of opensource project project [Lens - Kubernetes IDE](https://github.com/lensapp/lens) and cloud services.
+        
+           - Test-driven React components development
+           - Test-driven Node.js (NestJS) APIs development
+           - CI automation with GIthub Actions + Shell scripting
+           - Reviewed pull reuqests
+           
     - role: Senior Backend Developer
-      time: 10.2019 - present
+      time: 10.2019 - 10.2020
       company: Kuuhubb Oy, Finland
       details: |
-        Kuuhubb is a publicly listed mobile game development and publishing company.
+        Kuuhubb is a publicly listed mobile game development company.
         
         I worked with the backend serving mutiple mobile games. My tasks include:
         
