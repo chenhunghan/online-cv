@@ -83,26 +83,15 @@ experiences:
            - End-to-end CI/CD automation with GIthub Actions + Shell scripting
           
     - role: Full Stack Developer
-      time: 2.2019 - 10.2019
+      time: 1.2018 - 10.2019
       company: Spectral Engines Oy, Finland
       details: |
         Spectral Engines is a subsidiary of the Nynomic group. SE's main prodect is NIR spectroscopy and its applications.   
         
         My tasks as a full stack developer is to develope full-stack JavaScript cloud services, including apps, web-based dashboards, and the backend.
-        
           - 80% backend 20% front-end. Worked on micro service clusters, cloud resource endpoints
           - Developed React-based, cross-platform (Android + iOS) Progressive Native Web apps.
           - Reviewed pull reuqests, debugged problems and corrected issues.
-
-    - role: Front End Developer
-      time: 1.2018 - 2.2019
-      company: Spectral Engines Oy, Finland
-      details: |
-      
-        Designed and developed web dashboard, a React-based, cross-platform (Android + iOS) Progressive Native Web app.
-          - Took concepts and produced design [mockups and prototypes](https://sketch.cloud/s/YZz8v/a/z8y5Dy/play).
-          - Designed and updated web apps to meet usability and performance requirements (Chrome Lighthouse scores 100/100).
-          - Designed and executed security measures such as CSP policy and XSS prevention.
 
     - role: Front End Developer
       time: 6.2015 - 12.2016
