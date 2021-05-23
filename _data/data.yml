@@ -37,7 +37,7 @@ career-profile:
       - Amazon Web Service (AWS) infrastructure provisioning and administration.
 
 education:
-    - degree: (Drop-out in 2018) Doctoral Candidate, New Media
+    - degree: Doctoral Candidate, New Media
       university: Aalto University, Finland
       time: 2014 - 2018
 
@@ -87,6 +87,14 @@ experiences:
       details: |
           - Designed and implemented an [open-source, React-based User Interface for DiMe](https://github.com/HIIT/dime-ui), a Personal Information Management solution.
           - Implemented an [open-source Chrome browser extension](https://github.com/HIIT/dime-webextension) for logging web activities.
+
+    - role: Doctoral Researcher 
+      time: 9.2014 - 12.2017
+      company: Aalto University, Finland
+      details: |
+        Researches:
+          - Data visualization
+          - Unsupervised machine learning (Self-Organizing Map)
           
     - role: Front End Developer
       time: 9.2013 - 8.2014
