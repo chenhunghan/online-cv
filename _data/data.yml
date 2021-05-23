@@ -22,9 +22,9 @@ career-profile:
     title: Summary
     summary: |
       
-      I am a seasoned full-stack JavaScript developer and Cloud/Kubernetes expert, 5+ years’ experience in React and Node.js. Linux Foundation certified Kubernetes administer.
+      Henry Chen is a seasoned full-stack JavaScript developer and Cloud/Kubernetes expert, 5+ years’ experience in React and Node.js. Linux Foundation certified Kubernetes administer.
       
-      Currently, I am one of the maintainers of [Lens - Kubernetes IDE](https://github.com/lensapp/lens).
+      Currently, he is one of the maintainers of [Lens - Kubernetes IDE](https://github.com/lensapp/lens).
       
       Accumulated tags of knowledge:
       
@@ -54,21 +54,20 @@ experiences:
       time: 10.2020 - present
       company: Mirantis, EMEA
       details: |
-        Maintainer of opensource project [Lens - Kubernetes IDE](https://github.com/lensapp/lens) and [cloud services](https://app.k8slens.dev/).
+        Maintainer of [Lens - Kubernetes IDE](https://github.com/lensapp/lens) and [cloud services](https://app.k8slens.dev/).
         
            - BDD React components development.
            - Node.js (NestJS) RESTful APIs development.
            - CI automation with Github Actions.
-           - Review pull reuqests.
            
     - role: Senior Backend Developer
       time: 10.2019 - 10.2020
       company: Kuuhubb Oy, Finland
       details: |
-        Kuuhubb is a publicly listed mobile game development company. I worked with the backend serving mutiple mobile games. My tasks include:
+        Developed Node.js backend for mutiple mobile games.
         
-           - BDD Node.js (Koa) RESTful API implementation.
-           - Kubernetes clusters and AWS infra provision and administration..
+           - BDD Node.js (Koa) RESTful APIs development.
+           - Kubernetes clusters and AWS infra provision and administration.
            - CI/CD automation with Github Actions.
           
     - role: Full Stack Developer
@@ -77,7 +76,7 @@ experiences:
       details: |
         Spectral Engines is a subsidiary of the Nynomic group. SE's main prodect is NIR spectroscopy and its applications.   
         
-        My tasks as a full stack developer is to develope full-stack JavaScript cloud services, including apps, web-based dashboards, and the backend.
+        Developed full-stack JavaScript apps, web-based dashboards, and backend.
            - Developed React-based, cross-platform (Android + iOS) Progressive Native Web apps (PWAs).
            - Reviewed pull reuqests, debugged problems and corrected issues.
 
@@ -94,11 +93,11 @@ experiences:
       details: |
         Researches:
           - Data visualization
-          - Unsupervised machine learning (Self-Organizing Map)
+          - Unsupervised machine learning (Self-Organizing Feature Map algorithm)
           
     - role: Front End Developer
       time: 9.2013 - 8.2014
       company: Intrising Inc., Taiwan
       details: |
-          - Designed web-based apps: "IntraView" and "IntraConfig", from prototypes to final products. see [live-demo](https://chenhunghan.github.io/iv/).
+          - Designed web-based apps: 'IntraView' and 'IntraConfig', from prototypes to final products. [live-demo](https://chenhunghan.github.io/iv/).
           - Established systems structures (Nodewebkit/NW.js_+ AngularJS + D3.js) and defining the essential core design features (UI+UX).
