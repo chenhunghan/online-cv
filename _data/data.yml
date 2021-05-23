@@ -52,9 +52,9 @@ education:
 experiences:
     - role: Senior Software Developer
       time: 10.2020 - present
-      company: Mirantis, EU
+      company: Mirantis, EMEA
       details: |
-        One of the maintainers of opensource project [Lens - Kubernetes IDE](https://github.com/lensapp/lens) and cloud services.
+        Maintainer of opensource project [Lens - Kubernetes IDE](https://github.com/lensapp/lens) and [cloud services](https://app.k8slens.dev/).
         
            - BDD React components development.
            - Node.js (NestJS) RESTful APIs development.
